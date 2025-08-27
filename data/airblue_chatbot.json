@@ -1,0 +1,853 @@
+{"tier1": [
+      {
+      "question": "How can I change or cancel my booking?",
+      "answer": "You can change or cancel your booking with applicable fees and fare difference. Enter your PNR and last name. (Note: Demo portfolio project)"
+    },
+    {
+      "question": "What are the baggage allowances?",
+      "answer": "Carry-on: 7 kg. Checked: 20 kg Economy Flexi, 30 kg Economy Xtra."
+    },
+    {
+      "question": "How can I check flight status?",
+      "answer": "Use the flight status feature or enter your flight number (Note: This demo does not connect to real-time systems)."
+    },
+    {
+      "question": "What are your check‑in times?",
+      "answer": "Domestic: open 2½ h before, close 45 min before. International: open 4 h before, close 90 min before."
+    },
+    {
+      "question": "How do I use BlueMiles?",
+      "answer": "Earn miles on flights and redeem them—8,000 miles for domestic one‑way, 12,000 for UAE one‑way."
+    },
+    {
+      "question": "Where is your head office?",
+      "answer": "12th & 1st Floor, ISE Towers, 55‑B Jinnah Avenue, Islamabad. Helpline: 111‑247‑258."
+    },
+    {
+      "question": "Do you offer seat selection or upgrades?",
+      "answer": "Yes, passengers can select preferred seats and request upgrades depending on availability."
+    },
+    {
+      "question": "What documents do I need to travel internationally?",
+      "answer": "Valid passport, visa (if required), and booking confirmation."
+    },
+    {
+      "question": "How can I redeem a promo code?",
+      "answer": "Promo codes can be applied during booking at checkout. (Note: Demo project—promo codes not live)."
+    },
+    {
+      "question": "What are the refund policies?",
+      "answer": "Refunds allowed with fees. Partial refunds for connecting flights are not available."
+    },
+    {
+      "question": "What is the price and schedule for MUX→JED on 2025-09-05?",
+      "answer": "Demo portfolio data — not official: Fare PKR 72,500 (Economy Flexi). Departure 00:30, Arrival 03:55. In an official chatbot, real-time prices and schedules would appear here."
+    },
+    {
+      "question": "What is the price and schedule for JED→MUX on 2025-09-12?",
+      "answer": "Demo portfolio data — not official: Fare PKR 74,200 (Economy Flexi). Departure 04:45, Arrival 09:15. In an official chatbot, real-time prices and schedules would appear here."
+    },
+    {
+      "question": "What is the price and schedule for MUX→DXB on 2025-09-07?",
+      "answer": "Demo portfolio data — not official: Fare PKR 48,000 (Economy Value). Departure 13:10, Arrival 15:15. In an official chatbot, real-time prices and schedules would appear here."
+    },
+    {
+      "question": "What is the price and schedule for DXB→MUX on 2025-09-14?",
+      "answer": "Demo portfolio data — not official: Fare PKR 51,300 (Economy Value). Departure 16:30, Arrival 20:20. In an official chatbot, real-time prices and schedules would appear here."
+    },
+    {
+      "question": "What is the price and schedule for LHE→JED on 2025-09-09?",
+      "answer": "Demo portfolio data — not official: Fare PKR 69,900 (Economy Flexi). Departure 06:20, Arrival 11:40. In an official chatbot, real-time prices and schedules would appear here."
+    },
+    {
+      "question": "What is the price and schedule for JED→LHE on 2025-09-16?",
+      "answer": "Demo portfolio data — not official: Fare PKR 71,100 (Economy Flexi). Departure 12:45, Arrival 18:00. In an official chatbot, real-time prices and schedules would appear here."
+    },
+    {
+      "question": "What is the price and schedule for KHI→JED on 2025-09-11?",
+      "answer": "Demo portfolio data — not official: Fare PKR 65,800 (Economy Value). Departure 05:15, Arrival 09:35. In an official chatbot, real-time prices and schedules would appear here."
+    },
+    {
+      "question": "What is the price and schedule for KHI→LHE on 2025-09-08?",
+      "answer": "Demo portfolio data — not official: Fare PKR 18,500 (Economy Value). Departure 14:30, Arrival 16:25. In an official chatbot, real-time prices and schedules would appear here."
+    },
+    {
+      "question": "What is the price and schedule for ISB→JED on 2025-09-10?",
+      "answer": "Demo portfolio data — not official: Fare PKR 70,400 (Economy Flexi). Departure 22:15, Arrival 03:30. In an official chatbot, real-time prices and schedules would appear here."
+    },
+    {
+      "question": "What is the price and schedule for ISB→DXB on 2025-09-06?",
+      "answer": "Demo portfolio data — not official: Fare PKR 42,700 (Economy Value). Departure 09:00, Arrival 11:40. In an official chatbot, real-time prices and schedules would appear here."
+    },
+    {
+      "question": "What is the price and schedule for KHI→ISB on 2025-09-04?",
+      "answer": "Demo portfolio data — not official: Fare PKR 15,200 (Economy Value). Departure 07:15, Arrival 09:20. In an official chatbot, real-time prices and schedules would appear here."
+    },
+    {
+      "question": "What is the price and schedule for KHI→LHE on 2025-09-05?",
+      "answer": "Demo portfolio data — not official: Fare PKR 14,800 (Economy Value). Departure 18:10, Arrival 20:00. In an official chatbot, real-time prices and schedules would appear here."
+    },
+    {
+      "question": "Which destinations does Airblue serve?",
+      "answer": "Domestic: ISB, KHI, LHE, MUX, KDU. International: DXB, AUH, SHJ, JED, RUH."
+    },
+    {
+      "question": "What is carry‑on allowance?",
+      "answer": "One cabin bag up to 7 kg (approx 22×15×8 in)."
+    },
+    {
+      "question": "What compensation is offered for lost or damaged baggage?",
+      "answer": "Domestic: PKR 1,000/kg. International: around USD 20/kg (Conventions apply)."
+    },
+    {
+      "question": "What are check‑in counter times?",
+      "answer": "Domestic: open 2.5 h, close 45 min before departure. International: open 4 h, close 90 min before."
+    },
+    {
+      "question": "Do you provide wheelchair assistance?",
+      "answer": "Yes, for airport movement/boarding. Request in advance; policies vary by mobility level."
+    },
+    {
+      "question": "Pregnancy travel policy?",
+      "answer": "Up to 27 weeks no certificate. 28–36 weeks require doctor certificate. 37+ weeks not permitted (single uncomplicated)."
+    },
+    {
+  "question": "What aircraft types are currently in Airblue’s fleet?",
+  "answer": "Airblue currently operates Airbus A320-200, Airbus A321-200, and Airbus A321neo aircraft."
+    },
+    {
+  "question": "How many aircraft does Airblue operate?",
+  "answer": "As of now, Airblue operates a fleet of 12 aircraft: 5 Airbus A320-200, 5 Airbus A321-200, and 2 Airbus A321neo."
+  },
+  {
+  "question": "Did Airblue ever operate other aircraft types?",
+  "answer": "Yes, Airblue previously operated Airbus A319-100, Airbus A330-200, Airbus A340-300, and ATR 72-600 aircraft, but all have been retired."
+  },
+  {
+  "question": "Has Airblue ever had a major accident?",
+  "answer": "Yes. On 28 July 2010, Airblue Flight 202 crashed into the Margalla Hills near Islamabad, resulting in 152 fatalities. It was Airblue’s worst accident."
+  },
+  {
+  "question": "Has Airblue had any other incidents?",
+  "answer": "Yes. On 23 April 2019, an Airbus A320 (AP-EDA) operating flight PA613 from Sharjah to Peshawar overran the runway. No injuries occurred and the aircraft was repaired."
+  },
+  {
+  "question": "When was Airblue founded?",
+  "answer": "Airblue was founded in 2003 by Tariq Chaudhary, a Pakistani-American IT professional, and commenced operations on 18 June 2004."
+  },
+  {
+  "question": "What is Airblue’s IATA and ICAO code?",
+  "answer": "Airblue’s IATA code is PA (formerly ED from 2003–2012) and its ICAO code is ABQ. Its callsign is PAKBLUE."
+  },
+   {
+  "question": "Does Airblue offer a cargo service?",
+  "answer": "Yes. Airblue operates an e-Cargo service covering Pakistan, the UAE, and the UK, allowing certified agents to book freight online."
+   }, 
+   {
+    "question": "How do I contact the Dubai office?",
+    "answer": "Helpline 600 544 542. City Sales Office: Shop 3, Al Muraqabat 2, Deira."
+    },
+       {
+    "question": "How do I contact Airblue Customer service?",
+    "answer": "You can contact Airblue Customer Service by calling their helpline at 111-247-258 (111-AIRBLUE) within Pakistan, or via the contact form on their official website www.airblue.com.They also respond to queries through their official email wearelistening@airblue.com." },
+    {
+  "question": "How do I make changes to my reservation?",
+  "answer": "Online changes are not possible. Call 111-247-258 with your confirmation number or first flight details. Fees may apply (up to PKR 300)."
+},
+{
+  "question": "Minimum time between purchase and departure?",
+  "answer": "At least 1 hour before scheduled flight (online purchase)."
+},
+{
+  "question": "Can I hold a reservation and pay later?",
+  "answer": "Yes, up to 24 hours; complete payment in person at a sales office/payment center. At least 1 hour before scheduled flight (online purchase)."
+}
+
+    ],
+"tier2": {
+  "aboutAirblue": {
+    "description": "Airblue Limited is Pakistan's second-largest private airline with head office at ISE Towers, Islamabad.",
+    "founded": "2003",
+    "IATA Code": "PA (since 2012), ED (2003–2012)",
+    "ICAO Code": "ABQ",
+  "callsign": "PAKBLUE",
+  "commencedOperations": "18 June 2004",
+    "innovations": [
+      "Online reservation",
+      "E-ticketing",
+      "Self check-in kiosks"
+    ]
+  },
+  "history": {
+  "founder": "Tariq Chaudhary, Pakistani-American IT professional",
+  "established": 2003,
+  "milestones": [
+    "18 June 2004: Launched domestic flights Karachi–Lahore, Karachi–Islamabad",
+    "2005: First international flight Karachi–Dubai",
+    "2007: Launched Manchester route via Istanbul/Trabzon",
+    "2011: Istanbul Sabiha Gokcen service (later terminated)",
+    "2012: Acquired A320 and leased A340s, launched Birmingham & Manchester nonstop",
+    "2014: Ended UK operations due to A340 technical issues"
+  ]
+  },
+  "fleetInfo": {
+  "currentFleet": {
+    "A320-200": ["AP-EDA", "AP-EDG", "AP-EDH"],
+    "A321-200": ["AP-BMM", "AP-BMN", "AP-BMO", "AP-BMP", "AP-BMW"],
+    "A321neo": ["AP-BOD", "AP-BOE"]
+  },
+  "formerFleet": [
+    {"type": "Airbus A319-100", "introduced": 2008, "retired": 2014},
+    {"type": "Airbus A330-200", "introduced": 2015, "retired": 2016},
+    {"type": "Airbus A340-300", "introduced": 2012, "retired": 2014},
+    {"type": "ATR 72-600", "introduced": 2015, "retired": 2015}
+  ],
+  "cabinLayout": "All aircraft have a 3+3 economy layout with overhead video screens. Business class was discontinued due to economic factors."
+},
+
+
+  "destinations": {
+    "domestic": [
+      "Islamabad – ISB",
+      "Karachi – KHI",
+      "Lahore – LHE",
+      "Multan – MUX",
+      "Skardu – KDU"
+    ],
+    "international": {
+      "uae": [
+        "Dubai – DXB",
+        "Abu Dhabi – AUH",
+        "Sharjah – SHJ"
+      ],
+      "ksa": [
+        "Jeddah – JED",
+        "Riyadh – RUH"
+      ]
+    }
+  },
+  "offices": {
+    "pakistan": {
+      "islamabad": {
+        "headOffice": {
+          "address": "12th & 1st Floor, ISE Towers, 55-B Jinnah Avenue, Islamabad",
+          "contact": "111-247-258",
+          "hours": "24/7"
+        },
+        "citySalesOffice": {
+          "address": "Ground Floor, ISE Towers, 55-B Jinnah Avenue, Islamabad",
+          "contact": "111-247-258",
+          "hours": "24/7"
+        },
+        "airport": {
+          "name": "Islamabad International Airport",
+          "contact": "111-247-258 ext 406",
+          "hours": "24/7"
+        }
+      },
+      "rawalpindi": {
+        "citySalesOffice": {
+          "address": "Office No. 5 & 6, Pindi Club Building, Mall Road, Saddar, Rawalpindi",
+          "contact": "+92-51-111-247-258 Ext.426",
+          "hours": "8 AM - 8 PM"
+        }
+      },
+      "karachi": {
+        "citySalesOffice": {
+          "address": "Air Blue LTD., PIIA Building, Ground Floor, Mulana Din Muhammad Wafai Road, Karachi",
+          "contact": "021-111 247 258 ext. 2190-2193",
+          "hours": "8 AM - 8 PM"
+        },
+        "airport": {
+          "name": "Jinnah International Airport",
+          "contact": "111-247-258 ext 488, 490",
+          "hours": "24/7"
+        }
+      },
+      "lahore": {
+        "citySalesOffice": {
+          "address": "Ground Floor, Shop No. 1 & 2, Asad Center 71-E, Main Boulevard, Gulberg-2, Lahore",
+          "contact": "042-3587-0789",
+          "hours": "9 AM - 9 PM"
+        },
+        "airport": {
+          "name": "Allama Iqbal International Airport, Room No. 2224, Level-2",
+          "contact": "+92-42-3661-1499",
+          "hours": "24/7"
+        }
+      },
+      "faisalabad": {
+        "citySalesOffice": {
+          "address": "SS Mall Plaza, Opp. Radio Pakistan, Faisalabad Cantt",
+          "contact": "041-5388978 / 041-5388998",
+          "hours": "8 AM - 8 PM"
+        }
+      },
+      "peshawar": {
+        "citySalesOffice": {
+          "address": "Office # 5, Ground Floor, Cantt Mall, Fakhar-e-Alam Road, Peshawar Cantt",
+          "contact": "051-111-247-258",
+          "hours": "8 AM - 8 PM"
+        }
+      },
+      "multan": {
+        "citySalesOffice": {
+          "address": "SS Mall Plaza, Opp. Radio Pakistan, Multan Cantt",
+          "contact": "+92-061-4544572",
+          "hours": "8 AM - 8 PM"
+        },
+        "airport": {
+          "name": "Multan International Airport",
+          "contact": "+92-331-5566379",
+          "hours": "9 AM - 9 PM"
+        }
+      }
+    },
+    "uae": {
+      "dubai": {
+        "citySalesOffice": {
+          "address": "Shop No 3, Al Muraqabat 2, Near Clock Tower Roundabout, Deira, Dubai",
+          "contact": "600 544 542",
+          "fax": "+971-4-2959192"
+        },
+        "airport": {
+          "name": "Dubai International Airport, Terminal 1 (Departure)",
+          "contact": "+971-4-2161820"
+        }
+      },
+      "sharjah": {
+        "citySalesOffice": {
+          "address": "Sheikha Hamda Khalid Al Qasimia Building, Near King Faisal Mosque, Al Zahra'a street, Sharjah",
+          "contact": "600 544 542"
+        }
+      },
+      "abuDhabi": {
+        "citySalesOffice": {
+          "address": "National Cinema Building, Najda Street, Abu Dhabi",
+          "contact": "600 544 542",
+          "fax": "+971-2-6779004"
+        },
+        "airport": {
+          "name": "Abu Dhabi International Airport, Terminal 02 (Departure Area)"
+        }
+      }
+    },
+    "ksa": {
+      "jeddah": {
+        "citySalesOffice": {
+          "address": "Office # 22, Souq Al-Nada Al-Jadid, Near KUDU Restaurant, Al-Mushrafah Area, Falasteen street, Jeddah",
+          "contact": "00966-12-6176619 / 00966-12-6176625",
+          "fax": "00966-12-6176614"
+        }
+      },
+      "riyadh": {
+        "citySalesOffice": {
+          "address": "Safana Hotel, Opp. King Fahad Medical City, Makkah (Khurais) Road, Riyadh",
+          "contact": "+966-11-4627758"
+        }
+      }
+    }
+  },
+  "baggagePolicy": {
+    "carryOn": {
+      "allowance": "1 cabin bag up to 7 kg",
+      "dimensions": "Approx 22×15×8 in"
+    },
+    "checked": {
+      "economyValue": "No free checked baggage",
+      "economyFlexi": "1 bag, 20 kg",
+      "economyXtra": "1 bag, 30 kg",
+      "maxSize": "54 inches total (L+H+W)"
+    },
+    "compensation": {
+      "domestic": "PKR 1,000 per kg (requires PIR)",
+      "international": "USD 20 per kg (Conventions apply; PIR required)"
+    },
+    "prohibitedItems": [
+      "Explosives and Firearms",
+      "Fireworks",
+      "Flammable Liquids",
+      "Compressed Gases",
+      "Flammable Solids",
+      "Oxidizing Material",
+      "Radioactive Material",
+      "Poisons and Infectious Substances",
+      "Corrosives",
+      "Pressure Pack Cans"
+    ]
+  },
+  "passengerRights": {
+    "Domestic Flights": [
+      {
+        "title": "Flight Cancellation",
+        "details": "Choice of alternative transport or full refund. Hotel accommodation if necessary. Compensation unless sufficient notice (12+ hours) is given.",
+        "reference": "Article D13 of ANO-001-ATCP-2.0"
+      },
+      {
+        "title": "Long Flight Delays",
+        "details": "Refreshments, hotel accommodation if necessary for delays 2–4 hours. Refund if delay >5 hours. Liability limited to proven damages or double fare.",
+        "reference": "Articles D12.2.5, D13.4, D14"
+      },
+      {
+        "title": "Baggage Loss/Damage",
+        "details": "Liability limited to PKR 1,000/kg. Property Irregularity Report (PIR) required."
+      },
+      {
+        "title": "Denied Boarding",
+        "details": "Alternative transport or full refund. Compensation 50% of ticket if not volunteer. Hotel accommodation if necessary.",
+        "reference": "Article D12.3"
+      },
+      {
+        "title": "Death/Injury",
+        "details": "Liability only if accident occurs onboard or during embarking/disembarking.",
+        "reference": "Rule 17(1)"
+      }
+    ],
+    "International Flights": [
+      {
+        "title": "Flight Cancellation",
+        "details": "Alternative transport or full refund. Hotel accommodation if needed.",
+        "reference": "Article D13 of ANO-001-ATCP-2.0"
+      },
+      {
+        "title": "Denied Boarding",
+        "details": "Alternative transport or full refund. Compensation 50% if not volunteer. Hotel accommodation if necessary.",
+        "reference": "Article D12.3"
+      },
+      {
+        "title": "Long Flight Delays",
+        "details": "Refreshments, hotel accommodation if delay 2–4 hours. Refund if delay >5 hours. Liability limited to 4,150 SDR.",
+        "reference": "Articles D12.2.5, D14, 19, 22"
+      },
+      {
+        "title": "Death/Injury",
+        "details": "Liability applies if accident occurs onboard or during embarking/disembarking.",
+        "reference": "Article 17(1)"
+      },
+      {
+        "title": "Baggage Loss/Damage/Delay",
+        "details": "Determined per Montreal & Warsaw Conventions. PIR required."
+      }
+    ]
+  },
+  "refundCancellation": {
+    "notes": [
+      "1. Flight Cancellation – Choice of alternative transport or full refund. Hotel accommodation if necessary. Compensation unless sufficient notice (12+ hours) is given. [Article D13 of ANO-001-ATCP-2.0]",
+      "2. Long Flight Delays – Refreshments, hotel accommodation if necessary for delays 2–4 hours. Refund if delay >5 hours. Liability limited to proven damages or double fare. [Articles D12.2.5, D13.4, D14]",
+      "4. Denied Boarding – Alternative transport or full refund. Compensation 50% of ticket if not volunteer. Hotel accommodation if necessary. [Article D12.3]",
+      "1. Flight Cancellation – Alternative transport or full refund. Hotel accommodation if needed. [Article D13 of ANO-001-ATCP-2.0]",
+      "2. Denied Boarding – Alternative transport/full refund. Compensation 50% if not volunteer. Hotel accommodation if necessary. [Article D12.3]",
+      "3. Long Flight Delays – Refreshments, hotel accommodation if delay 2–4 hours. Refund if delay >5 hours. Liability limited to 4,150 SDR. [Articles D12.2.5, D14, 19, 22]",
+      "Ticket Changes & Refunds:",
+      "Change fee + fare difference applies; non-refundable.",
+      "Refund fee applies; NIC required; partial refunds not allowed for connecting flights.",
+      "Refunds processed via original payment method.",
+      "Tickets expire 30 days after the flight date; cannot be refunded, cancelled, or changed.",
+      "Maximum liability for denied boarding, delays, or cancellations is the ticket price.",
+      "Cancellations / Refunds / Flight Transfers / Name Changes",
+      "Certification may be canceled in cases of fraud or strategic changes."
+    ]
+  },
+  "checkIn": {
+    "summary": {
+      "domestic": "Counters open 2.5 hours before, close 45 minutes before departure",
+      "international": "Counters open 4 hours before, close 90 minutes before departure"
+    },
+    "details": [
+      "Innovations: Online reservation, e-ticketing, self check-in kiosks.",
+      "Domestic flights: check-in counters open 2½ hours before departure, close 45 min prior.",
+      "No medical clearance required. Assistance provided by airline staff after check-in.",
+      "Passengers should ensure comfort and preparedness; inform staff during check-in for assistance.",
+      "No medical clearance required. Notify staff at check-in if specific needs exist.",
+      "Passengers requiring special medical considerations must complete an Indemnity Form at check-in to ensure safety and compliance with medical requirements.",
+      "Keep it safe; it is needed for changes or check-in."
+    ]
+  },
+  "blueMiles": {
+    "overview": "BlueMiles™ is Airblue’s Frequent Flyer program. Earn miles on flights and redeem for discounted fares and special offers.",
+    "earning": [
+      "Miles are automatically credited after travel completion.",
+      "Provide BlueMiles number during booking to ensure credit.",
+      "If not added, claim miles within 45 days of travel."
+    ],
+    "redeeming": {
+      "minimumMiles": {
+        "domestic": 8000,
+        "uaeMiddleEast": 12000,
+        "saudiArabia": 18000
+      },
+      "specialOffers": "Check BlueMiles Dashboard for promotions."
+    },
+    "tracking": [
+      "Miles updated within ~14 days after flight completion.",
+      "View balance online or call 111-AIR-BLUE (111-247-258)."
+    ],
+    "zones": [
+      {
+        "zone": "PK",
+        "route": "ISB-KHI",
+        "earnedMilesEconomyFlexi": 699,
+        "milesNeededToRedeem": 8000
+      },
+      {
+        "zone": "PK",
+        "route": "KHI-LHE",
+        "earnedMilesEconomyFlexi": 634,
+        "milesNeededToRedeem": 8000
+      },
+      {
+        "zone": "PK",
+        "route": "ISB-KDU",
+        "earnedMilesEconomyFlexi": 189,
+        "milesNeededToRedeem": 8000
+      },
+      {
+        "zone": "ME",
+        "route": "DXB-ISB",
+        "earnedMilesEconomyFlexi": 1211,
+        "milesNeededToRedeem": 12000
+      },
+      {
+        "zone": "ME",
+        "route": "AUH-LHE",
+        "earnedMilesEconomyFlexi": 1310,
+        "milesNeededToRedeem": 12000
+      },
+      {
+        "zone": "ME",
+        "route": "SHJ-MUX",
+        "earnedMilesEconomyFlexi": 1029,
+        "milesNeededToRedeem": 12000
+      },
+      {
+        "zone": "SA",
+        "route": "ISB-JED",
+        "earnedMilesEconomyFlexi": 2223,
+        "milesNeededToRedeem": 18000
+      },
+      {
+        "zone": "SA",
+        "route": "LHE-JED",
+        "earnedMilesEconomyFlexi": 2271,
+        "milesNeededToRedeem": 18000
+      },
+      {
+        "zone": "SA",
+        "route": "KHI-MED",
+        "earnedMilesEconomyFlexi": 1722,
+        "milesNeededToRedeem": 18000
+      }
+    ],
+    "raw": [
+      "Users can modify personal info, opt in/out of email updates, and manage BlueMiles accounts via the website.",
+      "\"Company Information\" includes flight schedules, routes, fares, text, graphics, icons, media clips, downloads, data compilations (including Customer and BlueMiles info), and logos.",
+      "Alternative payment methods (BlueMiles, gift certificates, discount coupons) require contacting Airblue Reservations.",
+      "Airblue BlueMiles Program – Overview",
+      "What is BlueMiles??",
+      "BlueMiles™ is Airblue’s Frequent Flyer program. It rewards loyal passengers with discounted airfares and special offers. Every flight you take adds miles to your account. You can redeem your BlueMiles once you have earned 8,000 miles.",
+      "Earning BlueMiles",
+      "You must be a BlueMiles member and provide your membership number when booking.",
+      "Redeeming BlueMiles",
+      "Special redemption offers are available; log in to your BlueMiles Dashboard to check.",
+      "BlueMiles Tracking",
+      "Sample BlueMiles Earned / Redemption Table (per one-way flight)",
+      "Managing Your BlueMiles",
+      "Login: BlueMiles Dashboard to track balance, redeem miles, and manage account."
+    ]
+  },
+  "accidents": [
+  {
+    "date": "28 July 2010",
+    "flight": "Airblue Flight 202",
+    "route": "Karachi → Islamabad",
+    "aircraft": "Airbus A321-200 (AP-BJB)",
+    "details": "Crashed into Margalla Hills during poor weather. 152 fatalities."
+  },
+  {
+    "date": "23 April 2019",
+    "flight": "PA613 (Sharjah → Peshawar)",
+    "aircraft": "A320 (AP-EDA)",
+    "details": "Runway excursion on landing. No injuries. Aircraft repaired and returned to service."
+  }
+],
+  "medicalGuidelines": {
+    "newborns": [
+      "Less than 48 hours old: May travel at 48 hours if fit and healthy. Medical/Birth certificate required.",
+      "Three days and older: Fit to travel without additional requirements."
+    ],
+    "pregnancy": [
+      "Single uncomplicated: Up to 27 weeks no certificate. 28–34 weeks: certificate with EDD and fitness. 35–36 weeks: time‑bound certificate. 37+ weeks: not permitted.",
+      "Multiple uncomplicated: Up to 27 weeks: no certificate. 28–30: certificate with EDD. 31–32: time‑bound certificate. 33+ weeks: not permitted.",
+      "Multiple complicated: Restrictions depend on severity."
+    ],
+    "cardiac": [
+      "Heart Attack/Stroke/MI/Angina: Travel after 3 days (uncomplicated) with cardiac fitness certificate.",
+      "Angiography: 24 hours after.",
+      "Angioplasty: 3 days after with fitness certificate.",
+      "CABG/Heart surgery: 14 days after with fitness certificate.",
+      "Cardiac Failure: Medical certificate confirming fitness required."
+    ],
+    "surgery": [
+      "Major hip/ankle/knee surgery: travel after 6 weeks with certificate.",
+      "Brain/Spinal surgery: after 14 days with certificate.",
+      "Eye (intraocular) surgery: after 10 days with certificate.",
+      "Cataract/Corneal laser: after 48 hours with certificate.",
+      "ENT/Chest/Major abdominal (open): after 14 days with certificate.",
+      "Laparoscopic abdominal: after 7 days with certificate."
+    ],
+    "orthopedic": [
+      "Fractures: travel after 48 hours of cast application. Within 24 hours permitted with splint, medical certificate, and detailed notes. Unbendable casts require 3 seats."
+    ],
+    "assistiveDevices": [
+      "Pneumatically or electrically operated medical apparatus: not permitted onboard."
+    ],
+    "disabilities": [
+      "Deaf or hearing‑impaired passengers do not require medical clearance. Bring necessary hearing aids.",
+      "Blind passengers: no medical clearance required."
+    ],
+    "infections": [
+      "Passengers in contagious stage of illness are not permitted to travel."
+    ],
+    "special": [
+      "Stretcher cases: not accommodated by Airblue—make alternative arrangements.",
+      "Hair transplant/aesthetic/cosmetic procedures: travel after 24 hours with surgeon’s fitness letter. Same‑day requires Airport Health Authority approval."
+    ],
+    "indwellingCatheters": [
+      "Allowed—bring necessary supplies; inform staff."
+    ],
+    "asthma": [
+      "Carry inhalers/medication; no special clearance required if stable."
+    ],
+    "wheelchairAndMobility": [
+      "Wheelchairs provided for airport movement, boarding and deplaning; not for personal use outside these areas.",
+      "Request assistance in advance."
+    ],
+    "airportLimitations": [
+      "Skardu airport does not accommodate immobile passengers requiring stair assistance."
+    ],
+    "raw": [
+      "Less than 48 hours old: May travel at 48 hours if fit and healthy. Medical/Birth certificate required.",
+      "Cardiac Failure: Medical certificate confirming fitness required.",
+      "Fractures: Travel allowed after 48 hours of cast application. Travel within 24 hours permitted with splint, medical certificate, and detailed notes. Unbendable casts require 3 seats.",
+      "Major Hip/Ankle/Knee Surgery: Travel allowed after 6 weeks with medical certificate.",
+      "Brain/Spinal Surgery: Travel allowed after 14 days with medical certificate.",
+      "Eye Surgery (Intraocular): Travel allowed after 10 days with medical certificate.",
+      "Cataract/Corneal Laser Surgery: Travel allowed after 48 hours with medical certificate.",
+      "Deaf or hearing-impaired passengers do not require medical clearance. Bring any necessary hearing aids.",
+      "Up to 27 weeks: No medical certificate required.",
+      "Important Note for Passengers with Medical Conditions"
+    ]
+  },
+  "specialAssistance": {
+    "wheelchairUse": [
+      "For airport premises and boarding/deplaning.",
+      "Request in advance to ensure availability."
+    ],
+    "attendantRequirement": [
+      {
+        "situation": "Can ascend/descend steps and move to/from cabin seats but cannot walk long distances",
+        "mustTravelWithAttendant": "No"
+      },
+      {
+        "situation": "Cannot ascend/descend steps but can slowly move to/from cabin seats",
+        "mustTravelWithAttendant": "No"
+      },
+      {
+        "situation": "Immobile and require wheelchair to/from aircraft and cabin seats",
+        "mustTravelWithAttendant": "Yes"
+      },
+      {
+        "situation": "Mentally handicapped passenger",
+        "mustTravelWithAttendant": "Yes"
+      }
+    ]
+  },
+  "demoFlightData": {
+    "disclaimer": "⚠️ Portfolio demo only. Prices/schedules below are NOT official; in a future official chatbot, real-time data will be used.",
+    "flightSchedulesAndPrices": [
+      {
+        "route": "MUX → JED",
+        "date": "2025-09-05",
+        "fare": "PKR 72,500",
+        "class": "Economy Flexi",
+        "departure": "00:30",
+        "arrival": "03:55",
+        "source": "DEMO"
+      },
+      {
+        "route": "JED → MUX",
+        "date": "2025-09-12",
+        "fare": "PKR 74,200",
+        "class": "Economy Flexi",
+        "departure": "04:45",
+        "arrival": "09:15",
+        "source": "DEMO"
+      },
+      {
+        "route": "MUX → DXB",
+        "date": "2025-09-07",
+        "fare": "PKR 48,000",
+        "class": "Economy Value",
+        "departure": "13:10",
+        "arrival": "15:15",
+        "source": "DEMO"
+      },
+      {
+        "route": "DXB → MUX",
+        "date": "2025-09-14",
+        "fare": "PKR 51,300",
+        "class": "Economy Value",
+        "departure": "16:30",
+        "arrival": "20:20",
+        "source": "DEMO"
+      },
+      {
+        "route": "LHE → JED",
+        "date": "2025-09-09",
+        "fare": "PKR 69,900",
+        "class": "Economy Flexi",
+        "departure": "06:20",
+        "arrival": "11:40",
+        "source": "DEMO"
+      },
+      {
+        "route": "JED → LHE",
+        "date": "2025-09-16",
+        "fare": "PKR 71,100",
+        "class": "Economy Flexi",
+        "departure": "12:45",
+        "arrival": "18:00",
+        "source": "DEMO"
+      },
+      {
+        "route": "KHI → JED",
+        "date": "2025-09-11",
+        "fare": "PKR 65,800",
+        "class": "Economy Value",
+        "departure": "05:15",
+        "arrival": "09:35",
+        "source": "DEMO"
+      },
+      {
+        "route": "KHI → LHE",
+        "date": "2025-09-08",
+        "fare": "PKR 18,500",
+        "class": "Economy Value",
+        "departure": "14:30",
+        "arrival": "16:25",
+        "source": "DEMO"
+      },
+      {
+        "route": "ISB → JED",
+        "date": "2025-09-10",
+        "fare": "PKR 70,400",
+        "class": "Economy Flexi",
+        "departure": "22:15",
+        "arrival": "03:30",
+        "source": "DEMO"
+      },
+      {
+        "route": "ISB → DXB",
+        "date": "2025-09-06",
+        "fare": "PKR 42,700",
+        "class": "Economy Value",
+        "departure": "09:00",
+        "arrival": "11:40",
+        "source": "DEMO"
+      },
+      {
+        "route": "KHI → ISB",
+        "date": "2025-09-04",
+        "fare": "PKR 15,200",
+        "class": "Economy Value",
+        "departure": "07:15",
+        "arrival": "09:20",
+        "source": "DEMO"
+      },
+      {
+        "route": "KHI → LHE",
+        "date": "2025-09-05",
+        "fare": "PKR 14,800",
+        "class": "Economy Value",
+        "departure": "18:10",
+        "arrival": "20:00",
+        "source": "DEMO"
+      }
+    ]
+  }},
+"tier3": {
+    "privacyPolicy": [
+      "Privacy Policy:",
+      "Airblue is committed to protecting your privacy. Any information shared via the Airblue website or email is treated confidentially and will not be disclosed outside Airblue or its partners.",
+      "Airblue is not responsible for privacy practices or content on linked websites.",
+      "Using Airblue.com indicates consent to this privacy policy.",
+      "Questions about this privacy statement or site practices: +111-AIRBLUE (247-258)",
+      "PRIVACY POLICY",
+      "Privacy:",
+      "User information is protected per Airblue’s Privacy Policy.",
+      "Airblue is not responsible for content or privacy practices of external linked websites.",
+      "Airblue does not sell personal information (name, address, email) to third parties.",
+      "Aggregated, non-personal statistics may be shared with partners or advertisers.",
+      "Users may opt out of future mailings; data is discarded unless user opts to receive updates.",
+      "Credit/debit card details are not stored, sold, shared, rented, or leased to third parties."
+    ],
+    "cargo": {
+  "service": "Airblue e-Cargo",
+  "description": "Airblue launched e-Cargo to serve Pakistan, UAE, and UK. Certified agents can book freight online through the web-based inventory system."
+},
+
+    "legalDisclaimer": [
+      "Acceptance of Terms:",
+      "Ownership of Company Information:",
+      "Terms and Conditions of Use:",
+      "Use of automated tools (robots, spiders, scraping) is prohibited.",
+      "Airblue content and company information are provided \"as is\" without warranty.",
+      "Ticket Terms and Conditions:",
+      "Use of Airblue websites and company information is subject to terms and conditions.",
+      "Content provided 'as is' without warranty; not liable for direct, indirect, incidental or consequential damages."
+    ],
+    "technicalRequirements": [
+      "Netscape Navigator ≥ 4.06",
+      "AOL users: AOL ≥ 4.0 (with IE support)",
+      "Clear browser cache. Instructions depend on your browser (IE, Netscape, AOL, Prodigy).",
+      "Recommended browsers: Latest Chrome/Firefox/Edge; SSL and JavaScript enabled.",
+      "Corporate firewalls may block secure traffic (port 443).",
+      "Clear browser cache if pages fail to load.",
+      "AOL/Netscape legacy notes for archival compatibility."
+    ],
+    "systemNotes": [
+      "Agents must sell tickets at the price presented by the system. Altering fares or commissions is prohibited.",
+      "Enter it during passenger information entry in the online reservation system.",
+      "The system shows available future travel dates automatically.",
+      "System Requirements",
+      "5. System Freezes / Application Closures:",
+      "Caused by overloaded system resources; site cannot freeze your computer.",
+      "1. Benefits of Booking Through Airblue System",
+      "Typing numbers in payment fields: ensure Num Lock is on, or use number row keys.",
+      "System freezes are generally due to local resources; site cannot freeze your computer."
+    ],
+    "travelAgentProgram": [
+      "Airblue websites and company information are available for personal, non-commercial use unless you are an approved travel agent.",
+      "Airblue Travel Agent Program – FAQs Summary",
+      "Only certified agents can use private web-booking engine.",
+      "Benefits: premium fare discounts, centralized billing, online account management, bonus programs.",
+      "No application fee; deposit only if using debit account; payments via payment locations or wire transfer."
+    ],
+    "payments": [
+      "Forms of Payment: JazzCash, Visa, MasterCard (debit/credit) in PKR or AED.",
+      "Users must retain transaction records and maintain account confidentiality."
+    ],
+    "governingLaw": [
+      "UAE clients: governing law is local law; disputes handled in UAE courts."
+    ],
+    "ticketTerms": [
+      "Tickets are non-transferable and non-endorsable.",
+      "Passengers to KSA must meet relevant government quarantine/insurance requirements (context: COVID-19 era).",
+      "Tickets expire 30 days after flight date; cannot be refunded, cancelled, or changed (per demo policy text)."
+    ],
+    "security": [
+      "SSL is used for secure transactions; look for https and lock icon.",
+      "Credit card transactions processed by a reputable third party."
+    ]
+  }
+}
