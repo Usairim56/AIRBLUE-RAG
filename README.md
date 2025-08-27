@@ -1,5 +1,5 @@
 # ✈️ AIRBLUE-RAG Chatbot
-
+![Chatbot Screenshot](data/Screenshot%20(371).png)
 A portfolio project demonstrating a **Retrieval-Augmented Generation (RAG) chatbot** built with **Groq's free `gemma2-9b-it` model**, deployed on Hugging Face Spaces, and connected to a custom frontend.
 
 ---
@@ -54,12 +54,6 @@ This tiered design ensures **accurate prioritization of responses**.
 
 ---
 
-## 📸 Screenshot
-
-### 📑 Example Query
-(data/Screenshot (371).png)
-
----
 
 ## 🛠️ Setup & Installation
 
