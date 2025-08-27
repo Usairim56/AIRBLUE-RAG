@@ -57,7 +57,7 @@ This tiered design ensures **accurate prioritization of responses**.
 ## 📸 Screenshot
 
 ### 📑 Example Query
-![Example Chat](data/Screenshot (371).png)
+(data/Screenshot (371).png)
 
 ---
 
